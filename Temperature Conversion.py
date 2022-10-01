@@ -85,7 +85,7 @@ while(continueto == 'y' or continueto == 'Y'):
     degree = askdegree(scale1)
     scale2 = asksecond()
         
-    #Llama a la funcion para imprimir el reporte
+    #Call function to print the report
     finalprint(scale1, degree, scale2)
         
     #Try other number?
